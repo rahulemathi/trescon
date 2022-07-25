@@ -1,0 +1,54 @@
+:root{
+    --join: linear-gradient(#00a7dd,#e71387)
+}
+.boy,.girl{
+    width: 200px;
+}
+
+.boy{
+    float: right;
+}
+
+.girl{
+    position: relative;
+    top: 200px;
+}
+
+.meta{
+    background-image: url("./images/hero-banner/bg-hero-banner.jpg");
+    position: relative;
+}
+
+.vr{
+    width: 600px;
+}
+
+.trescon-girl{
+    position: absolute;
+
+}
+
+.game{
+    margin: 12rem 0 0 0;
+}
+
+.game h2{
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+.game .tech{
+    font-size: 2rem;
+    font-weight: 700;
+    background-image: linear-gradient(90deg,#00a7dd,#e71387);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.metaverse{
+    font-size: 1.3rem;
+}
+
+.billion,.landscape{
+    font-size: 3rem ;
+}
