@@ -52,3 +52,78 @@
 .billion,.landscape{
     font-size: 3rem ;
 }
+
+.gaming{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 5rem 0 0 0;
+}
+
+.card-title{
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 700;
+}
+
+.card-text{
+    font-size: 13px;
+    padding: 0 2rem;
+    text-align: center;
+}
+
+.blue-border{
+    border: 2px solid #07adea;
+    background-color: transparent;
+    color: white;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.pink-border{
+    border: 2px solid #f4168e;
+    background-color: transparent;
+    color: white;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+
+.cards{
+    padding: 20px 100px;
+}
+
+.blue-bg{
+    background-color: #07adea;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.team{
+    background-image: url("./images/bg-speaker.png");
+}
+
+.name{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.designation{
+    font-size: 15px;
+}
+
+.location{
+    font-size: 15px;
+    font-weight: 700;
+}
